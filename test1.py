@@ -1,6 +1,7 @@
 x=1
-print(x)
+print("x=", x)
 z=3
-print(z)
+print("z=", z)
 y=2
-print(y)
+print("y=", y)
+
